@@ -1,0 +1,334 @@
+  
+<tbody>
+            <tr id="table_35_row_0" data-row-index="0">
+                            <td style="">1</td>
+                            <td style=""><p style="text-align: left">bältros</p></td>
+                            <td style=""><p style="text-align: left">Zostavax<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BK02</p></td>
+                    </tr>
+                <tr id="table_35_row_1" data-row-index="1">
+                            <td style="">2</td>
+                            <td style=""><p style="text-align: left">bältros</p></td>
+                            <td style=""><p style="text-align: left">Shingrix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BK03</p></td>
+                    </tr>
+                <tr id="table_35_row_2" data-row-index="2">
+                            <td style="">3</td>
+                            <td style=""><p style="text-align: left">gula febern</p></td>
+                            <td style=""><p style="text-align: left">Stamaril<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BL01</p></td>
+                    </tr>
+                <tr id="table_35_row_3" data-row-index="3">
+                            <td style="">4</td>
+                            <td style=""><p style="text-align: left">hemofilus influensa</p></td>
+                            <td style=""><p style="text-align: left">Act-HIB<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AG01</p></td>
+                    </tr>
+                <tr id="table_35_row_4" data-row-index="4">
+                            <td style="">5</td>
+                            <td style=""><p style="text-align: left">hemofilus influensa</p></td>
+                            <td style=""><p style="text-align: left">se även kombinationsvacciner</p></td>
+                            <td style=""><p style="text-align: left">kan gälla 2 veckor</p></td>
+                            <td style=""></td>
+                    </tr>
+                <tr id="table_35_row_5" data-row-index="5">
+                            <td style="">6</td>
+                            <td style=""><p style="text-align: left">hepatit A</p></td>
+                            <td style=""><p style="text-align: left">Avaxim<sup>®</sup>, Havrix<sup>®</sup>, Vaqta<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag. <br>Om givet pga. exponering för hepatit: uppehåll 6 mån.</p></td>
+                            <td style=""><p style="text-align: left">J07BC02</p></td>
+                    </tr>
+                <tr id="table_35_row_6" data-row-index="6">
+                            <td style="">7</td>
+                            <td style=""><p style="text-align: left">hepatit B</p></td>
+                            <td style=""><p style="text-align: left">Engerix-B<sup>®</sup>, Fendrix<sup>®</sup>, HBVAXPRO<sup>®</sup>,</p></td>
+                            <td style=""><p style="text-align: left">2 veckor. <br>Om givet pga. exponering för hepatit: uppehåll 6 mån.</p></td>
+                            <td style=""><p style="text-align: left">J07BC01</p></td>
+                    </tr>
+                <tr id="table_35_row_7" data-row-index="7">
+                            <td style="">8</td>
+                            <td style=""><p style="text-align: left">hepatit A+B</p></td>
+                            <td style=""><p style="text-align: left">Twinrix<sup>®</sup>, Ambirix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">2 veckor. <br>Om givet pga. exponering för hepatit: uppehåll 6 mån.</p></td>
+                            <td style=""><p style="text-align: left">J07BC20</p></td>
+                    </tr>
+                <tr id="table_35_row_8" data-row-index="8">
+                            <td style="">9</td>
+                            <td style=""><p style="text-align: left">influensa</p></td>
+                            <td style=""><p style="text-align: left">Pandemic Influenza vaccine (H5N1) Baxter® </p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BB01</p></td>
+                    </tr>
+                <tr id="table_35_row_9" data-row-index="9">
+                            <td style="">10</td>
+                            <td style=""><p style="text-align: left">influensa</p></td>
+                            <td style=""><p style="text-align: left">InfluvacTetra<sup>®</sup>, Vaxigrip Tetra<sup>®</sup>, Adjupanrix<sup>®</sup>, AFLUNOV<sup>®</sup>, Eflueda<sup>®</sup>, Fluad Tetra<sup>®</sup>, Fluarix Tetra, Fluelvax Tetra<sup>®</sup>, Foclivia<sup>®</sup>, Influvac<sup>®</sup>, Supemtek<span style="font-size: 9.72225px"><sup>®</sup>,</span> Prepandemic Influenza Vaccine (H5N1) Novartis<span style="font-size: 9.72225px"><sup>®</sup></span></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BB02</p></td>
+                    </tr>
+                <tr id="table_35_row_10" data-row-index="10">
+                            <td style="">11</td>
+                            <td style=""><p style="text-align: left">influensa</p></td>
+                            <td style=""><p style="text-align: left">Fluenz Tetra<sup>® </sup>(nässpray) Pandemic Influenza vaccine (H5N1) AstraZenica<sup>®</sup> (nässpray)</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BB03</p></td>
+                    </tr>
+                <tr id="table_35_row_11" data-row-index="11">
+                            <td style="">12</td>
+                            <td style=""><p style="text-align: left">japansk encefalit</p></td>
+                            <td style=""><p style="text-align: left">IXIARO<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BA02</p></td>
+                    </tr>
+                <tr id="table_35_row_12" data-row-index="12">
+                            <td style="">13</td>
+                            <td style=""><p style="text-align: left">kikhosta</p></td>
+                            <td style=""><p style="text-align: left">se Kombinationsvacciner</p></td>
+                            <td style=""></td>
+                            <td style=""></td>
+                    </tr>
+                <tr id="table_35_row_13" data-row-index="13">
+                            <td style="">14</td>
+                            <td style=""><p style="text-align: left">kolera</p></td>
+                            <td style=""><p style="text-align: left">Dukoral<sup>®</sup> (peroral)</p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AE01</p></td>
+                    </tr>
+                <tr id="table_35_row_14" data-row-index="14">
+                            <td style="">15</td>
+                            <td style=""><p style="text-align: left">meningokocker</p></td>
+                            <td style=""><p style="text-align: left">Menveo<sup>®</sup>, Nimenrix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AH08</p></td>
+                    </tr>
+                <tr id="table_35_row_15" data-row-index="15">
+                            <td style="">16</td>
+                            <td style=""><p style="text-align: left">meningokocker</p></td>
+                            <td style=""><p style="text-align: left">Trumenba<sup>®</sup>, BEXSERO<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AH09</p></td>
+                    </tr>
+                <tr id="table_35_row_16" data-row-index="16">
+                            <td style="">17</td>
+                            <td style=""><p style="text-align: left">papillomvirus HPV</p></td>
+                            <td style=""><p style="text-align: left">Gardasil<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BM01</p></td>
+                    </tr>
+                <tr id="table_35_row_17" data-row-index="17">
+                            <td style="">18</td>
+                            <td style=""><p style="text-align: left">papillomvirus HPV</p></td>
+                            <td style=""><p style="text-align: left">Gardasil<sup>®</sup> 9</p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BM03</p></td>
+                    </tr>
+                <tr id="table_35_row_18" data-row-index="18">
+                            <td style="">19</td>
+                            <td style=""><p style="text-align: left">papillomvirus HPV</p></td>
+                            <td style=""><p style="text-align: left">Cervarix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BM02</p></td>
+                    </tr>
+                <tr id="table_35_row_19" data-row-index="19">
+                            <td style="">20</td>
+                            <td style=""><p style="text-align: left">pneumokocker</p></td>
+                            <td style=""><p style="text-align: left">Pneumovax<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AL01</p></td>
+                    </tr>
+                <tr id="table_35_row_20" data-row-index="20">
+                            <td style="">21</td>
+                            <td style=""><p style="text-align: left">pneumokocker</p></td>
+                            <td style=""><p style="text-align: left">Prevenar 13<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AL02</p></td>
+                    </tr>
+                <tr id="table_35_row_21" data-row-index="21">
+                            <td style="">22</td>
+                            <td style=""><p style="text-align: left">pneumokocker</p></td>
+                            <td style=""><p style="text-align: left">Synflorix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AL52</p></td>
+                    </tr>
+                <tr id="table_35_row_22" data-row-index="22">
+                            <td style="">23</td>
+                            <td style=""><p style="text-align: left">polio</p></td>
+                            <td style=""><p style="text-align: left">Imovax<sup>®</sup> Polio, VeroPol<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BF03</p></td>
+                    </tr>
+                <tr id="table_35_row_23" data-row-index="23">
+                            <td style="">24</td>
+                            <td style=""><p style="text-align: left">rabies</p></td>
+                            <td style=""><p style="text-align: left">Rabies-Imovax<sup>®</sup>, Rabipur<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag. <br>Om givet pga. misstanke om rabiessmitta: 1 års uppehåll</p></td>
+                            <td style=""><p style="text-align: left">J07BG01</p></td>
+                    </tr>
+                <tr id="table_35_row_24" data-row-index="24">
+                            <td style="">25</td>
+                            <td style=""><p style="text-align: left">rotavirus</p></td>
+                            <td style=""><p style="text-align: left">Rotarix<sup>®</sup> (peroral)</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BH01</p></td>
+                    </tr>
+                <tr id="table_35_row_25" data-row-index="25">
+                            <td style="">26</td>
+                            <td style=""><p style="text-align: left">rotavirus</p></td>
+                            <td style=""><p style="text-align: left">RotaTeq<sup>®</sup> (peroral)</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BH02</p></td>
+                    </tr>
+                <tr id="table_35_row_26" data-row-index="26">
+                            <td style="">27</td>
+                            <td style=""><p style="text-align: left">röda hund (rubella)</p></td>
+                            <td style=""><p style="text-align: left">se Kombinationsvacciner</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""></td>
+                    </tr>
+                <tr id="table_35_row_27" data-row-index="27">
+                            <td style="">28</td>
+                            <td style=""><p style="text-align: left">stelkramp</p></td>
+                            <td style=""><p style="text-align: left">se Kombinationsvacciner</p></td>
+                            <td style=""></td>
+                            <td style=""></td>
+                    </tr>
+                <tr id="table_35_row_28" data-row-index="28">
+                            <td style="">29</td>
+                            <td style=""><p style="text-align: left">tuberkulos</p></td>
+                            <td style=""><p style="text-align: left">BCG-vaccin AJVaccines<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07AN01</p></td>
+                    </tr>
+                <tr id="table_35_row_29" data-row-index="29">
+                            <td style="">30</td>
+                            <td style=""><p style="text-align: left">tyfoidfeber/tyfus (Salmonella typhi)</p></td>
+                            <td style=""><p style="text-align: left">Vivotif<sup>®</sup> (peroral)</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07AP01</p></td>
+                    </tr>
+                <tr id="table_35_row_30" data-row-index="30">
+                            <td style="">31</td>
+                            <td style=""><p style="text-align: left">tyfoidfeber/tyfus (Salmonella typhi)</p></td>
+                            <td style=""><p style="text-align: left">Typhim Vi<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AP03</p></td>
+                    </tr>
+                <tr id="table_35_row_31" data-row-index="31">
+                            <td style="">32</td>
+                            <td style=""><p style="text-align: left">TBE (encefalit)</p></td>
+                            <td style=""><p style="text-align: left">Encepur<sup>®</sup>, FSME-IMMUN<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BA01</p></td>
+                    </tr>
+                <tr id="table_35_row_32" data-row-index="32">
+                            <td style="">33</td>
+                            <td style=""><p style="text-align: left">vattkoppor (varicella)</p></td>
+                            <td style=""><p style="text-align: left">Varilrix<sup>®</sup>, Varivax<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BK01</p></td>
+                    </tr>
+                <tr id="table_35_row_33" data-row-index="33">
+                            <td style="">34</td>
+                            <td style=""><p style="text-align: left">mässling, påssjuka, röda hund</p></td>
+                            <td style=""><p style="text-align: left">M-M-RVAXPRO<sup>®</sup>, Priorix<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BD52</p></td>
+                    </tr>
+                <tr id="table_35_row_34" data-row-index="34">
+                            <td style="">35</td>
+                            <td style=""><p style="text-align: left">mässling, påssjuka, röda hund, vattkoppor</p></td>
+                            <td style=""><p style="text-align: left">Priorix<sup>®</sup> Tetra</p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BD54</p></td>
+                    </tr>
+                <tr id="table_35_row_35" data-row-index="35">
+                            <td style="">36</td>
+                            <td style=""><p style="text-align: left">difteri, stelkramp</p></td>
+                            <td style=""><p style="text-align: left">diTeBooster<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AM51</p></td>
+                    </tr>
+                <tr id="table_35_row_36" data-row-index="36">
+                            <td style="">37</td>
+                            <td style=""><p style="text-align: left">difteri, kikhosta, stelkramp</p></td>
+                            <td style=""><p style="text-align: left">Boostrix<sup>®</sup>, Triaxis<sup>®</sup>, diTekiBooster<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07AJ52</p></td>
+                    </tr>
+                <tr id="table_35_row_37" data-row-index="37">
+                            <td style="">38</td>
+                            <td style=""><p style="text-align: left">difteri, kikhosta, polio, stelkramp</p></td>
+                            <td style=""><p style="text-align: left">Boostrix<sup>®</sup> Polio, Repevax<sup>®</sup>, Infanrix<sup>®</sup> Polio, Tetravac<sup>®</sup>, DiTeKiPol<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07CA02</p></td>
+                    </tr>
+                <tr id="table_35_row_38" data-row-index="38">
+                            <td style="">39</td>
+                            <td style=""><p style="text-align: left">difteri, hemofilus influensa B, kikhosta, polio, stelkramp</p></td>
+                            <td style=""><p style="text-align: left">Pentavac<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07CA06</p></td>
+                    </tr>
+                <tr id="table_35_row_39" data-row-index="39">
+                            <td style="">40</td>
+                            <td style=""><p style="text-align: left">difteri, hemofilus influensa B, kikhosta, polio, stelkramp, hepatit B</p></td>
+                            <td style=""><p style="text-align: left">Infanrix<sup>®</sup> hexa, Hexyon<sup>®</sup>, Hexima<sup>®</sup>, Vaxelis<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">2 veckor <br>Om givet pga. exponering för hepatit: uppehåll 6 mån.</p></td>
+                            <td style=""><p style="text-align: left">J07CA09</p></td>
+                    </tr>
+                <tr id="table_35_row_40" data-row-index="40">
+                            <td style="">41</td>
+                            <td style=""><p style="text-align: left">tyfoidfeber/tyfus, hepatit A (Salmonella typhii)</p></td>
+                            <td style=""><p style="text-align: left">ViATIM<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag <br>Om givet pga. exponering för hepatit: uppehåll 6 mån.</p></td>
+                            <td style=""><p style="text-align: left">J07CA10</p></td>
+                    </tr>
+                <tr id="table_35_row_41" data-row-index="41">
+                            <td style="">43</td>
+                            <td style=""><p style="text-align: left">covid-19 (coronavirus, SARS-CoV-2)</p></td>
+                            <td style=""><p style="text-align: left">Comirnaty<sup><span style="font-family: Georgia, serif">® </span></sup>(Pfizer-BioNTech) </p>
+<p style="text-align: left">Spikevax<sup><span style="font-family: Georgia, serif">® </span></sup>(Moderna)</p>
+<p style="text-align: left">Vaxzevria<sup><span style="font-family: Georgia, serif">®</span></sup> (AstraZeneca)</p>
+<p style="text-align: left"><span style="font-family: Georgia, serif"><span style="font-family: Verdana, Arial, Helvetica, sans-serif">Nuvaxovid<sup><span style="font-family: Georgia, serif">®</span></sup></span></span></p></td>
+                            <td style=""><p style="text-align: left">3 dagar</p></td>
+                            <td style=""><p style="text-align: left">J07BN01</p>
+<p style="text-align: left">J07BN01</p>
+<p style="text-align: left">J07BN02</p>
+<p style="text-align: left">J07BN04</p></td>
+                    </tr>
+                <tr id="table_35_row_42" data-row-index="42">
+                            <td style="">44</td>
+                            <td style=""><p style="text-align: left">mpox (apkoppor)</p></td>
+                            <td style=""><p style="text-align: left">Imvanex<sup>®</sup></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BX01</p></td>
+                    </tr>
+                <tr id="table_35_row_43" data-row-index="43">
+                            <td style="">45</td>
+                            <td style=""><p style="text-align: left">dengue</p></td>
+                            <td style=""><p style="text-align: left">Qdenga<span style="font-family: Georgia, serif;font-size: 11.6667px">®<span style="font-family: Georgia, serif;font-size: 11.6667px"> </span></span></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07BX04</p></td>
+                    </tr>
+                <tr id="table_35_row_44" data-row-index="44">
+                            <td style="">46</td>
+                            <td style=""><p style="text-align: left">respiratoriskt syncytievirus (RSV, RS-virus)</p></td>
+                            <td style=""><p style="text-align: left">Abrysvo<span style="font-size: 11.6667px">®</span></p></td>
+                            <td style=""><p style="text-align: left">till nästa dag</p></td>
+                            <td style=""><p style="text-align: left">J07BX05</p></td>
+                    </tr>
+                <tr id="table_35_row_45" data-row-index="45">
+                            <td style="">47</td>
+                            <td style=""><p style="text-align: left">kolera</p></td>
+                            <td style=""><p style="text-align: left">Vaxchora<span style="font-size: 11.6667px">®</span></p></td>
+                            <td style=""><p style="text-align: left">4 veckor</p></td>
+                            <td style=""><p style="text-align: left">J07AE02</p></td>
+                    </tr>
+    </tbody>        <!-- /Table body -->
+
+
+

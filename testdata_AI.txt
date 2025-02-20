@@ -1,0 +1,6 @@
+Detta är en informationstext för att testa AI-chatbotens förmåga att använda file search. 
+I detta dokument finns information om olika vacciner och en tidsangivelse kopplad till varje vaccin, som säger hur lång karens det är för att kunna donera blod efter att man blivit vaccinerad.
+Vacciner; twinrix är ett vaccin mot hepatit B, det är en veckas karens på att donera blod, såvida det inte är pågrund av att du blivit exponerad för hepatit b. då är det fyra veckors karens.
+antibird är ett vaccin mot fågelinfluensa, det är 3 veckors karens på att donera blod efter att du blivit vaccinerad.
+antisick är ett vaccin mot alla sjukdomar, det är ett års karens för att lämna blod.
+antiape är ett vaccin mot apkoppor, detta ger ingen karens.
