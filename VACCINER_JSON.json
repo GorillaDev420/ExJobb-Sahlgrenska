@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "disease": "bältros",
+    "vaccine": "Zostavax®",
+    "waiting_period": "4 veckor",
+    "atc_code": "J07BK02"
+  },
+  {
+    "id": 2,
+    "disease": "bältros",
+    "vaccine": "Shingrix®",
+    "waiting_period": "till nästa dag",
+    "atc_code": "J07BK03"
+  },
+  {
+    "id": 3,
+    "disease": "gula febern",
+    "vaccine": "Stamaril®",
+    "waiting_period": "4 veckor",
+    "atc_code": "J07BL01"
+  },
+  {
+    "id": 4,
+    "disease": "hemofilus influensa",
+    "vaccine": "Act-HIB®",
+    "waiting_period": "till nästa dag",
+    "atc_code": "J07AG01"
+  },
+  {
+    "id": 5,
+    "disease": "hemofilus influensa",
+    "vaccine": "se även kombinationsvacciner",
+    "waiting_period": "kan gälla 2 veckor",
+    "atc_code": ""
+  },
+  {
+    "id": 6,
+    "disease": "hepatit A",
+    "vaccine": "Avaxim®, Havrix®, Vaqta®",
+    "waiting_period": "till nästa dag. Om givet pga. exponering för hepatit: uppehåll 6 mån.",
+    "atc_code": "J07BC02"
+  },
+  {
+    "id": 7,
+    "disease": "hepatit B",
+    "vaccine": "Engerix-B®, Fendrix®, HBVAXPRO®",
+    "waiting_period": "2 veckor. Om givet pga. exponering för hepatit: uppehåll 6 mån.",
+    "atc_code": "J07BC01"
+  },
+  {
+    "id": 8,
+    "disease": "hepatit A+B",
+    "vaccine": "Twinrix®, Ambirix®",
+    "waiting_period": "2 veckor. Om givet pga. exponering för hepatit: uppehåll 6 mån.",
+    "atc_code": "J07BC20"
+  },
+  {
+    "id": 9,
+    "disease": "influensa",
+    "vaccine": "Pandemic Influenza vaccine (H5N1) Baxter®",
+    "waiting_period": "till nästa dag",
+    "atc_code": "J07BB01"
+  },
+   {
+        "id": 10,
+        "disease": "influensa",
+        "vaccine": "InfluvacTetra®, Vaxigrip Tetra®, Adjupanrix®, AFLUNOV®, Eflueda®, Fluad Tetra®, Fluarix Tetra®, Fluelvax Tetra®, Foclivia®, Influvac®, Supemtek®, Prepandemic Influenza Vaccine (H5N1) Novartis®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BB02"
+    },
+    {
+        "id": 11,
+        "disease": "influensa",
+        "vaccine": "Fluenz Tetra® (nässpray) Pandemic Influenza vaccine (H5N1) AstraZenica® (nässpray)",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BB03"
+    },
+    {
+        "id": 12,
+        "disease": "japansk encefalit",
+        "vaccine": "IXIARO®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BA02"
+    },
+    {
+        "id": 13,
+        "disease": "kikhosta",
+        "vaccine": "se Kombinationsvacciner",
+        "waiting_period": "N/A",
+        "atc_code": "N/A"
+    },
+    {
+        "id": 14,
+        "disease": "kolera",
+        "vaccine": "Dukoral® (peroral)",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AE01"
+    },
+    {
+        "id": 15,
+        "disease": "meningokocker",
+        "vaccine": "Menveo®, Nimenrix®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AH08"
+    },
+    {
+        "id": 16,
+        "disease": "meningokocker",
+        "vaccine": "Trumenba®, BEXSERO®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AH09"
+    },
+    {
+        "id": 17,
+        "disease": "papillomvirus HPV",
+        "vaccine": "Gardasil®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BM01"
+    },
+    {
+        "id": 18,
+        "disease": "papillomvirus HPV",
+        "vaccine": "Gardasil® 9",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BM03"
+    },
+    {
+        "id": 19,
+        "disease": "papillomvirus HPV",
+        "vaccine": "Cervarix®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BM02"
+    },
+    {
+        "id": 20,
+        "disease": "pneumokocker",
+        "vaccine": "Pneumovax®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AL01"
+    },
+     {
+        "id": 21,
+        "disease": "pneumokocker",
+        "vaccine": "Prevenar 13®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AL02"
+    },
+    {
+        "id": 22,
+        "disease": "pneumokocker",
+        "vaccine": "Synflorix®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AL52"
+    },
+    {
+        "id": 23,
+        "disease": "polio",
+        "vaccine": "Imovax® Polio, VeroPol®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BF03"
+    },
+    {
+        "id": 24,
+        "disease": "rabies",
+        "vaccine": "Rabies-Imovax®, Rabipur®",
+        "waiting_period": "till nästa dag. Om givet pga. misstanke om rabiessmitta: 1 års uppehåll",
+        "atc_code": "J07BG01"
+    },
+    {
+        "id": 25,
+        "disease": "rotavirus",
+        "vaccine": "Rotarix® (peroral)",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BH01"
+    },
+    {
+        "id": 26,
+        "disease": "rotavirus",
+        "vaccine": "RotaTeq® (peroral)",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BH02"
+    },
+    {
+        "id": 27,
+        "disease": "röda hund (rubella)",
+        "vaccine": "se Kombinationsvacciner",
+        "waiting_period": "4 veckor",
+        "atc_code": "N/A"
+    },
+    {
+        "id": 28,
+        "disease": "stelkramp",
+        "vaccine": "se Kombinationsvacciner",
+        "waiting_period": "N/A",
+        "atc_code": "N/A"
+    },
+    {
+        "id": 29,
+        "disease": "tuberkulos",
+        "vaccine": "BCG-vaccin AJVaccines®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07AN01"
+    },
+    {
+        "id": 30,
+        "disease": "tyfoidfeber/tyfus (Salmonella typhi)",
+        "vaccine": "Vivotif® (peroral)",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07AP01"
+    },
+    {
+        "id": 31,
+        "disease": "tyfoidfeber/tyfus (Salmonella typhi)",
+        "vaccine": "Typhim Vi®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AP03"
+    },
+    {
+        "id": 32,
+        "disease": "TBE (encefalit)",
+        "vaccine": "Encepur®, FSME-IMMUN®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BA01"
+    },
+    {
+        "id": 33,
+        "disease": "vattkoppor (varicella)",
+        "vaccine": "Varilrix®, Varivax®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BK01"
+    },
+    {
+        "id": 34,
+        "disease": "mässling, påssjuka, röda hund",
+        "vaccine": "M-M-RVAXPRO®, Priorix®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BD52"
+    },
+    {
+        "id": 35,
+        "disease": "mässling, påssjuka, röda hund, vattkoppor",
+        "vaccine": "Priorix® Tetra",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BD54"
+    },
+    {
+        "id": 36,
+        "disease": "difteri, stelkramp",
+        "vaccine": "diTeBooster®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AM51"
+    },
+    {
+        "id": 37,
+        "disease": "difteri, kikhosta, stelkramp",
+        "vaccine": "Boostrix®, Triaxis®, diTekiBooster®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07AJ52"
+    },
+    {
+        "id": 38,
+        "disease": "difteri, kikhosta, polio, stelkramp",
+        "vaccine": "Boostrix® Polio, Repevax®, Infanrix® Polio, Tetravac®, DiTeKiPol®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07CA02"
+    },
+    {
+        "id": 39,
+        "disease": "difteri, hemofilus influensa B, kikhosta, polio, stelkramp",
+        "vaccine": "Pentavac®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07CA06"
+    },
+    {
+        "id": 40,
+        "disease": "difteri, hemofilus influensa B, kikhosta, polio, stelkramp, hepatit B",
+        "vaccine": "Infanrix® hexa, Hexyon®, Hexima®, Vaxelis®",
+        "waiting_period": "2 veckor Om givet pga. exponering för hepatit: uppehåll 6 mån.",
+        "atc_code": "J07CA09"
+    },
+    {
+        "id": 41,
+        "disease": "tyfoidfeber/tyfus, hepatit A (Salmonella typhii)",
+        "vaccine": "ViATIM®",
+        "waiting_period": "till nästa dag Om givet pga. exponering för hepatit: uppehåll 6 mån.",
+        "atc_code": "J07CA10"
+    },
+    {
+        "id": 43,
+        "disease": "covid-19 (coronavirus, SARS-CoV-2)",
+        "vaccine": "Comirnaty® (Pfizer-BioNTech), Spikevax® (Moderna), Vaxzevria® (AstraZeneca), Nuvaxovid®",
+        "waiting_period": "3 dagar",
+        "atc_code": "J07BN01, J07BN01, J07BN02, J07BN04"
+    },
+    {
+        "id": 44,
+        "disease": "mpox (apkoppor)",
+        "vaccine": "Imvanex®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BX01"
+    },
+    {
+        "id": 45,
+        "disease": "dengue",
+        "vaccine": "Qdenga®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07BX04"
+    },
+    {
+        "id": 46,
+        "disease": "respiratoriskt syncytievirus (RSV, RS-virus)",
+        "vaccine": "Abrysvo®",
+        "waiting_period": "till nästa dag",
+        "atc_code": "J07BX05"
+    },
+    {
+        "id": 47,
+        "disease": "kolera",
+        "vaccine": "Vaxchora®",
+        "waiting_period": "4 veckor",
+        "atc_code": "J07AE02"
+    }
+
+]
