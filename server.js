@@ -20,7 +20,7 @@ let assistantId = null;
 async function createAssistant() {
   const assistant = await openai.beta.assistants.create({
     name: "Real-Time AI Assistant",
-    instructions: "Du är en sjukvårdsassistent. När du svarar på karenser för vaccinationer ska du bara svara på när det är ok att donera blod igen. Du är en chatbot som svarar på användarens frågor genom att använda vector store files. Du ska inte ge några svar eller dra några slutsatser från sådant som inte står i vektor store files. ",
+    instructions: "Du ska alltid förhålla dig till instructions_ai.txt , när du svarar på en fråga.",
     model: "gpt-4o-mini",
     tools: [{ type: "file_search" }],
   });
@@ -55,7 +55,7 @@ async function uploadFiles() {
   }
 
   // ✅ Check if the file exists locally before uploading
-  const filePath = path.resolve("vacciner_json_format.json");
+  const filePath = path.resolve("sjukdomar-och-åtgärder.txt");
   if (!fs.existsSync(filePath)) {
     console.error("❌ File does not exist at path:", filePath);
     return vectorStoreId;
@@ -175,7 +175,9 @@ async function runAssistant(threadId, assistantId) {
   let aiResponse = messages.data.pop().content[0].text.value;
 
   // 🔹 Format references:
-  aiResponse = aiResponse.replace(/\[(\d+:\d+):([^\]]+)\]/g, "(källa: $2)");
+  aiResponse = aiResponse.replace(/【\d+:\d+†[a-zA-Z]+】/g, '');
+
+
 
 
 
